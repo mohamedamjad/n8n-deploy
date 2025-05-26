@@ -1,5 +1,8 @@
 # n8n-deploy
 
+
+## description
+
 Deploy and manage n8n workflows on your Ubuntu server with confidence. This repository provides a battle-tested, secure, and highly available installation script that:
 
 * **Automates Setup**
@@ -21,3 +24,9 @@ Deploy and manage n8n workflows on your Ubuntu server with confidence. This repo
   * Automatic security patching for underlying OS components
 
 Whether you’re running mission-critical automations or experimenting with new workflows, this script takes care of the heavy lifting—so you can focus on building what matters. Get up and running in minutes, with deployment best practices baked in.
+
+
+# installation:
+
+````
+$ sudo bash install.sh
